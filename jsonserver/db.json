@@ -1,0 +1,130 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Irresistible appetizers’ corner",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "2",
+      "categoryName": "GuestBook Cards",
+      "categoryImg": "./images/guestbook.jpeg"
+    },
+    {
+      "id": "3",
+      "categoryName": "Nature inspired Candy Station",
+      "categoryImg": "./images/naturecandy.jpeg"
+    },
+    {
+      "id": "4",
+      "categoryName": "Wedding Chocolate mini boxes",
+      "categoryImg": "./images/weddingchocolate.jpeg"
+    },
+    {
+      "id": "5",
+      "categoryName": "Wedding table numbers",
+      "categoryImg": "./images/weddingtable.jpeg"
+    },
+    {
+      "id": "6",
+      "categoryName": "Live ice-cream station",
+      "categoryImg": "./images/liveiceream.jpeg"
+    },
+    {
+      "id": "6",
+      "categoryName": "Add intimicy for your wedding",
+      "categoryImg": "./images/intimicy.jpeg"
+    },
+    {
+      "id": "7",
+      "categoryName": "Engagement neon sign",
+      "categoryImg": "./images/neon.jpeg"
+    },
+    {
+      "id": "8",
+      "categoryName": "Thank you card",
+      "categoryImg": "./images/thanku.jpeg"
+    },
+    {
+      "id": "9",
+      "categoryName": "Live crepe & waffle station",
+      "categoryImg": "./images/crepewaffle.jpeg"
+    },
+    {
+      "id": "10",
+      "categoryName": "Bedouin wedding theme",
+      "categoryImg": "./images/bedoiun.jpeg"
+    },
+    {
+      "id": "11",
+      "categoryName": "Mini shawerma wedding station",
+      "categoryImg": "./images/minishawerma.jpeg"
+    },
+    {
+      "id": "12",
+      "categoryName": "It's just a number",
+      "categoryImg": "./images/justanumber.jpeg"
+    },
+    {
+      "id": "13",
+      "categoryName": "The true love",
+      "categoryImg": "./images/truelove.jpeg"
+    },
+    {
+      "id": "14",
+      "categoryName": "The first look",
+      "categoryImg": "./images/firstlook.jpeg"
+    },
+    {
+      "id": "15",
+      "categoryName": "Vintage photoshoot",
+      "categoryImg": "./images/vintage.jpeg",
+      "categoryDesc": "Satisfy your guests with mouth-watering irresistible appetizers corner"
+    },
+    {
+      "id": "16",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg",
+      "categoryDesc": "Satisfy your guests with mouth-watering irresistible appetizers corner"
+    },
+    {
+      "id": "17",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg",
+      "categoryDesc": "Satisfy your guests with mouth-watering irresistible appetizers corner"
+    },
+    {
+      "id": "18",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "19",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "20",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "21",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "22",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "23",
+      "categoryName": "",
+      "categoryImg": "./images/appetizers.jpeg"
+    },
+    {
+      "id": "6fb3"
+    }
+  ]
+}
